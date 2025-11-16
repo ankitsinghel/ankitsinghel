@@ -51,43 +51,10 @@ I'm a passionate software engineer specializing in **Web Development** with a st
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsinghel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghel&layout=compact&theme=radical)
-
----
-
-
-# 📌 **Featured Projects**
-
----
-
-### 🍱 **Satark**
-
-**Tech:** Next.js, TypeScript, Prisma, Supabase, PostgreSql, shadcn/ui, Zod, Resend
-A whistleblower platform enabling anonymous reporting with secure evidence submission, role-based admin panels, and cryptographic tracking IDs.
-
-**🔗 Live Demo:** [https://satark-nine.vercel.app/](https://satark-nine.vercel.app/)
-**🔗 GitHub:** [https://github.com/singhsinghel/Satark](https://github.com/singhsinghel/Satark)
-
----
-
-### 🎓 **AML Vox**
-
-**Tech:** Vue.js, Node.js, MySQL, RazorPay
-An e-learning + blogging + digital product platform built during internship. Includes quizzes, auto-evaluation, certificates, blogs, and seller dashboards for managing products, subscriptions, analytics, and more.
-
-**🔗 Live Demo:** [https://www.amlvox.com](https://www.amlvox.com)
-
----
-
-### 💬 **MistryMessage**
-
-**Tech:** Next.js, MongoDB, Resend, Shadcn, Zod, NextAuth
-Anonymous messaging platform where users can receive secret messages, manage privacy settings, and authenticate securely using NextAuth.
-
-**🔗 Live Demo:** [https://mistry-message.vercel.app/](https://mistry-message.vercel.app/)
-**🔗 GitHub:** [https://github.com/singhsinghel/MistryMessage](https://github.com/singhsinghel/MistryMessage)
-
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghel&theme=highcontrast&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghel&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+</p>
 ---
 
 ## 🌱 Currently Working On
