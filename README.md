@@ -2,14 +2,14 @@
 
 ![Header Image](./header-image.png)
 
-I'm a passionate software engineer specializing in **Web Development** with a strong background in **MERN Stack**, **Next.js**, **Data Structures & Algorithms**, **C/C++**, and **Databases** (SQL and NoSQL). I enjoy tackling complex problems and delivering efficient, scalable solutions.
+I'm a passionate software engineer specializing in **Web Development** with a strong background in **Full Stack**, **Next.js**, **Data Structures & Algorithms**, **C/C++**, and **Databases** (SQL and NoSQL). I enjoy tackling complex problems and delivering efficient, scalable solutions.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Full Stack Developer with expertise in front-end and back-end technologies.
-- 🌐 Experienced with **MERN (MongoDB, Express, React, Node.js)** and **Next.js**.
+- 🌐 Experienced with **Full Stack ( Express, React, Vue, Node, SQL, NoSQL, ORMs)** and **Next.js**.
 - 🧠 Strong foundation in **Data Structures and Algorithms**.
 - 🗃️ Skilled in both **SQL** and **NoSQL databases**.
 
@@ -20,12 +20,27 @@ I'm a passionate software engineer specializing in **Web Development** with a st
 ![Html](https://img.shields.io/badge/Html-FF6C37?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/Css-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TpeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuetify 2](https://img.shields.io/badge/Vuetify%202-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-0066CC?style=for-the-badge&logo=database&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=graphql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=oracle&logoColor=white)
+![Operating System](https://img.shields.io/badge/Operating%20System-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -36,37 +51,48 @@ I'm a passionate software engineer specializing in **Web Development** with a st
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsinghel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsinghel&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsinghel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghel&layout=compact&theme=radical)
 
 ---
 
-## 📌 Featured Projects
 
-### 🍱 [Yummy Bento](https://yummy-bento.onrender.com/)
-An all-in-one platform for food organization, **Yummy Bento** comes with an advanced **Admin Panel** and **Stripe payment integration**. Perfect for managing and tracking meals seamlessly!  
-**Live Demo**: [yummy-bento.onrender.com](https://yummy-bento.onrender.com/)  
-**GitHub Repository**: [GitHub - Yummy Bento](https://github.com/singhsinghel/Yummy_bento)
+# 📌 **Featured Projects**
 
 ---
 
-### 🏢 [Staffify - Employee Management System](https://staffifyfrontend.onrender.com/)
-**Staffify** is a comprehensive employee management platform designed to streamline HR tasks with numerous features. It includes an **Admin Panel** with tools to **assign tasks**, **reassign tasks if failed**, and **add comments** to enhance team collaboration.  
-**Live Demo**: [staffifyfrontend.onrender.com](https://staffifyfrontend.onrender.com/)  
-**GitHub Repository**: [GitHub - Staffify](https://github.com/singhsinghel/StaffifyFrontend)
+### 🍱 **Satark**
+
+**Tech:** Next.js, TypeScript, Prisma, Supabase, PostgreSql, shadcn/ui, Zod, Resend
+A whistleblower platform enabling anonymous reporting with secure evidence submission, role-based admin panels, and cryptographic tracking IDs.
+
+**🔗 Live Demo:** [https://satark-nine.vercel.app/](https://satark-nine.vercel.app/)
+**🔗 GitHub:** [https://github.com/singhsinghel/Satark](https://github.com/singhsinghel/Satark)
 
 ---
 
-### 🏠 [VivaVyouge - Airbnb Clone](https://vivavyouge.onrender.com/listings)
-**VivaVyouge** brings the best of Airbnb to life with an interactive property listing experience. It features a **rating system** for properties, allowing users to review and discover highly-rated stays.  
-**Live Demo**: [vivavyouge.onrender.com](https://vivavyouge.onrender.com/listings)  
-**GitHub Repository**: [GitHub - VivaVyouge](https://github.com/singhsinghel/VivaVyouge)
+### 🎓 **AML Vox**
+
+**Tech:** Vue.js, Node.js, MySQL, RazorPay
+An e-learning + blogging + digital product platform built during internship. Includes quizzes, auto-evaluation, certificates, blogs, and seller dashboards for managing products, subscriptions, analytics, and more.
+
+**🔗 Live Demo:** [https://www.amlvox.com](https://www.amlvox.com)
+
+---
+
+### 💬 **MistryMessage**
+
+**Tech:** Next.js, MongoDB, Resend, Shadcn, Zod, NextAuth
+Anonymous messaging platform where users can receive secret messages, manage privacy settings, and authenticate securely using NextAuth.
+
+**🔗 Live Demo:** [https://mistry-message.vercel.app/](https://mistry-message.vercel.app/)
+**🔗 GitHub:** [https://github.com/singhsinghel/MistryMessage](https://github.com/singhsinghel/MistryMessage)
 
 ---
 
 ## 🌱 Currently Working On
 
-I'm diving deeper into **Next.js** to build optimized, server-rendered web applications and enhance user experiences with modern frameworks.
+I'm sharpening my skills in scalability and distributed caching to develop fast, efficient, and production-ready applications.
 
 ---
 
