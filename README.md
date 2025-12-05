@@ -1,4 +1,4 @@
-# Hi there, I'm Ankit Singh! 👋
+# Hi there, I'm Ankit Kumar Singh! 👋
 
 ![Header Image](./header-image.png)
 
